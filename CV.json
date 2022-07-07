@@ -2,12 +2,22 @@
   "Experiencia Laboral":[
     {
       "Empresa":"Got-It Moving Ideas",
-      "Cargo":"Graphic Developer",
+      "Cargo":"Claudia Lopez",
       "Duracion":"2/February/2022 - 30/October/2022"     
     },
     {
       "Empresa":"Prime Digital Consulting",
-      "Cargo":"Interactive Developer",
+      "Cargo":"Federico Gutierrez",
+      "Duracion":"1/October/2022 - Current"  
+    },
+    {
+      "Empresa":"Prime Digital Consulting",
+      "Cargo":"Rodolfo Hernandez",
+      "Duracion":"1/October/2022 - Current"  
+    },
+    {
+      "Empresa":"Prime Digital Consulting",
+      "Cargo":"Hollman Morris",
       "Duracion":"1/October/2022 - Current"  
     }
   ]
