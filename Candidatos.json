@@ -1,0 +1,30 @@
+{
+  "Candidatos":[
+    {
+      "Nombre":"Gustavo",
+      "Apellido":"Petro",
+      "Votos":130000,
+      "Porcentaje":50
+    },
+    {
+      "Nombre":"Rodolfo",
+      "Apellido":"Hernandez",
+      "Votos":110000,
+      "Porcentaje":45
+    },
+    {
+      "Nombre":"Federico",
+      "Apellido":"Gutierrez",
+      "Votos":1000,
+      "Porcentaje":15
+      
+    },
+    {
+      "Nombre":"Votos",
+      "Apellido":"Blanco",
+      "Votos":4000,
+      "Porcentaje":10
+    }
+          
+    ]
+}
