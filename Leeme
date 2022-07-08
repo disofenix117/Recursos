@@ -1,0 +1,10 @@
+1)VIDEOS DESDE YOUTUBE EN UE:
+Para la visualizacion de videos directamente desde Youtube, el link debe tener las siguientes caracteristicas:
+https://www.youtube.com/embed/AuxrSDRBAJ0?playlist=AuxrSDRBAJ0&autoplay=1&loop=1
+------------------EMBED(copiar el iframe de YT)---?playlist=MISMO ID DEL VIDEO--&autoplay=1&loop=1
+El widget debe tener el componente WebBrowser del plugin llamado web browser.
+
+2)DATOS DE LECTURA EXTERNOS DE UE:
+Los datos leidos de unreal engine son obtenidos a partir de un archivo JSON ubicado directamente en este GITHUB, solo hay que establecer muy bien la estructura 
+tanto en el JSON como en UE on ayuda del plugin VaRest.
+
