@@ -15,5 +15,13 @@
       "Cargo":"Rodolfo Hernandez",
       "Duracion":"1/October/2022 - Current"  
     }
-  ]
+  ],
+  "VideoLinks":[
+    {
+      "link":"https://www.youtube.com/embed/AuxrSDRBAJ0?playlist=AuxrSDRBAJ0&autoplay=1&loop=1"      
+    },
+    {
+      "link":"https://www.youtube.com/embed/0w3FRuSPH3g?playlist=0w3FRuSPH3g&autoplay=1&loop=1"
+    }
+    ]
 }
