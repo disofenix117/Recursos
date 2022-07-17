@@ -1,20 +1,20 @@
 {
   "Candidatos":[
     {
-      "Nombre":"Diego",
-      "Apellido":"Suarez",
+      "Nombre":"Gustavo",
+      "Apellido":"Petro",
       "Votos":"130000",
       "Porcentaje":"50.6"
     },
     {
-      "Nombre":"Marce",
+      "Nombre":"Rodolfo Hernandez",
       "Apellido":"Gomez",
       "Votos":"110000",
       "Porcentaje":"45.4"
     },
     {
-      "Nombre":"Gina ",
-      "Apellido":"Diaz",
+      "Nombre":"Federico ",
+      "Apellido":"Gutierrez",
       "Votos":"1000",
       "Porcentaje":"15.3"
       
