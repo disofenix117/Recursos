@@ -1,4 +1,15 @@
 {
+  "Profile":[
+    {
+      "Name":"Diego Esteban Suarez Caldas",
+      "Country":"Colombia",
+      "Profession":"Multimedia Engineer",
+      "University":"Universidad Militar Nueva Granada",
+      "Info":"I’m a multimedia engineer student from Universidad Militar Nueva Ganada in the ability to use computational and multimedia engineering standards, to develop innovative products in terms of design, interactivity, use, realism and intelligence, as qualities of the quality of experience for the end user. My concentration areas are in visual Effects, postproduction, modeling 3D and video games development."
+    }
+    ],
+  
+  
   "Experiencia Laboral":[
     {
       "Empresa":"Got-It Moving Ideas",
