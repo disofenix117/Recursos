@@ -7,26 +7,93 @@
       "University":"Universidad Militar Nueva Granada",
       "Info":"I’m a multimedia engineer student from Universidad Militar Nueva Ganada in the ability to use computational and multimedia engineering standards, to develop innovative products in terms of design, interactivity, use, realism and intelligence, as qualities of the quality of experience for the end user. My concentration areas are in visual Effects, postproduction, modeling 3D and video games development."
     }
-    ],
+  ],
+  
+  "Education":[
+      {
+        "Institution":"Universidad Militar Nueva Granada",
+        "Title":"Multimedia Engineer - 2023",
+        "Certificate":""
+      },
+    {
+        "Institution":"Udemy",
+        "Title":"Desarrollo de juegos con Unreal Engine de 0 a profesional - 2022",
+        "Certificate":"https://www.udemy.com/certificate/UC-e4cf0465-a190-4a91-af7e-5862f0473800/"
+      },
+    {
+        "Institution":"Udemy",
+        "Title":"Programar blueprints en Unreal Engine de 0 a profesional - 2022",
+        "Certificate":"https://www.udemy.com/certificate/UC-7f68c33b-4d48-439d-b7b6-0cc7f66c238f/"
+      },
+    {
+        "Institution":"Udemy",
+        "Title":"After Effects: De zero a Master - 2021",
+        "Certificate":"https://www.udemy.com/certificate/UC-ba536fb1-4da1-4e5d-b844-0c3235bcafbf/"
+      },
+    
+    
+  ],
   
   
   "Experiencia Laboral":[
     {
+      "Empresa":"Prime Digital Consulting",
+      "Cargo":"Metaverse Coordinator",
+      "Duracion":"October/2022 - Current"  
+    },
+    {
+      "Empresa":"Prime Digital Consulting",
+      "Cargo":"Interactive Developer",
+      "Duracion":"October/2021 - October/2022"  
+    },
+    {
       "Empresa":"Got-It Moving Ideas",
-      "Cargo":"Claudia Lopez",
-      "Duracion":"2/February/2022 - 30/October/2022"     
-    },
-    {
-      "Empresa":"Prime Digital Consulting",
-      "Cargo":"Federico Gutierrez",
-      "Duracion":"1/October/2022 - Current"  
-    },
-    {
-      "Empresa":"Prime Digital Consulting",
-      "Cargo":"Rodolfo Hernandez",
-      "Duracion":"1/October/2022 - Current"  
+      "Cargo":"Graphic Developer - Intern",
+      "Duracion":"February/2022 - October/2022"     
     }
   ],
+  
+  "Skills":[
+    {
+      "Herramienta":"Unreal Engine",
+      "Porcentaje": 70,
+    },
+    {
+      "Herramienta":"Unity",
+      "Porcentaje": 80,
+    },
+    {
+      "Herramienta":"Visual Effects",
+      "Porcentaje": 70,
+    },
+    {
+      "Herramienta":"Modeling 3D",
+      "Porcentaje": 50
+    }
+    
+  ],
+  
+  "Referencias":[
+    {
+      "Name":"Luis Felipe Diaz",
+      "Profession": "Systems Engineer",
+      "Phone":"(+52) 55 76312100",
+      "Profile":" "      
+    },
+    {
+      "Name":"Maria Paula Nieto",
+      "Profession": "Multimedia Engineer",
+      "Phone":"(+57) 313 3743984",
+      "Profile":"https://www.linkedin.com/in/mpaulanieto/"      
+    },
+    {
+      "Name":"Ángela Marcela Gomez",
+      "Profession": "Ecologist | Environmental Law Specialist",
+      "Phone":"(+57) 313 4094381‬",
+      "Profile":"https://www.linkedin.com/in/ángela-marcela-gómez-porras-b1aa67222/"      
+    }
+  ],
+  
   "VideoLinks":[
     {
       "link":"https://www.youtube.com/embed/AuxrSDRBAJ0?playlist=AuxrSDRBAJ0&autoplay=1&loop=1"      
@@ -34,5 +101,5 @@
     {
       "link":"https://www.youtube.com/embed/0w3FRuSPH3g?playlist=0w3FRuSPH3g&autoplay=1&loop=1"
     }
-    ]
+  ]
 }
