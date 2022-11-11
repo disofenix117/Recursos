@@ -29,7 +29,7 @@
         "Institution":"Udemy",
         "Title":"After Effects: De zero a Master - 2021",
         "Certificate":"https://www.udemy.com/certificate/UC-ba536fb1-4da1-4e5d-b844-0c3235bcafbf/"
-      },
+      }
     
     
   ],
@@ -56,15 +56,15 @@
   "Skills":[
     {
       "Herramienta":"Unreal Engine",
-      "Porcentaje": 70,
+      "Porcentaje": 70
     },
     {
       "Herramienta":"Unity",
-      "Porcentaje": 80,
+      "Porcentaje": 80
     },
     {
       "Herramienta":"Visual Effects",
-      "Porcentaje": 70,
+      "Porcentaje": 70
     },
     {
       "Herramienta":"Modeling 3D",
@@ -89,7 +89,7 @@
     {
       "Name":"Ángela Marcela Gomez",
       "Profession": "Ecologist | Environmental Law Specialist",
-      "Phone":"(+57) 313 4094381",
+      "Phone":"(+57) 313 4094381",
       "Profile":"https://www.linkedin.com/in/ángela-marcela-gómez-porras-b1aa67222/"      
     }
   ],
