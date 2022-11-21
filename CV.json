@@ -27,6 +27,11 @@
       },
     {
         "Institution":"Udemy",
+        "Title":"Máster en Programación de Videojuegos con Unity® 2021 y C# - 2022",
+        "Certificate":"https://www.udemy.com/certificate/UC-60e6e80b-f262-4d0a-ae23-60a7aa4de0b2/"
+      },
+    {
+        "Institution":"Udemy",
         "Title":"After Effects: De zero a Master - 2021",
         "Certificate":"https://www.udemy.com/certificate/UC-ba536fb1-4da1-4e5d-b844-0c3235bcafbf/"
       }
@@ -78,7 +83,7 @@
       "Name":"Luis Felipe Diaz",
       "Profession": "Systems Engineer",
       "Phone":"(+52) 55 76312100",
-      "Profile":" "      
+      "Profile":"https://www.linkedin.com/in/luis-felipe-diaz-chica/"      
     },
     {
       "Name":"Maria Paula Nieto",
