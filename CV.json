@@ -8,6 +8,29 @@
       "Info":"I’m a multimedia engineer from Universidad Militar Nueva Ganada in the ability to use computational and multimedia engineering standards, to develop innovative products in terms of design, interactivity, use, realism and intelligence, as qualities of the quality of experience for the end user. My concentration are in videogames developer (unity or unreal engine ), visual Effects and postproduction. I have experience in multiplayer games based on photon for unity."
     }
   ],
+  "Personal Links":[
+    {
+      "Red":"LinkedIn",
+      "Link":"https://www.linkedin.com/in/diego-e-suarez-c/"
+    },
+    {
+      "Red":"GitHub",
+      "Link":"https://github.com/disofenix117"
+    },
+    {
+      "Red":"Instagram",
+      "Link":"https://www.instagram.com/disofenix_117/"
+    },
+    {
+      "Red":"Mail",
+      "Link":"mailto:disofenix117@hotmail.com"
+    },
+    {
+      "Red":"Telegram",
+      "Link":"https://t.me/DiegoSuarez_117"
+      
+    }
+  ],
   
   "Education":[
       {
