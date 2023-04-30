@@ -1,4 +1,5 @@
 {
+  "CopyRight:"2023",
   "Profile":[
     {
       "Name":"Diego Esteban Suarez Caldas",
@@ -118,6 +119,12 @@
       "Profile":"https://www.linkedin.com/in/luis-felipe-diaz-chica/"      
     },
     {
+      "Name":"Ángela Marcela Gomez",
+      "Profession": "Ecologist | Environmental Law Specialist",
+      "Phone":"(+57) 313 4094381",
+      "Profile":"https://www.linkedin.com/in/ángela-marcela-gómez-porras-b1aa67222/"      
+    },
+    {
       "Name":"Maria Paula Nieto",
       "Profession": "Multimedia Engineer",
       "Phone":"(+57) 313 3743984",
@@ -128,13 +135,8 @@
       "Profession": "Multimedia Engineer",
       "Phone":"(+57) 350",
       "Profile":"https://www.linkedin.com/in/"      
-    },
-    {
-      "Name":"Ángela Marcela Gomez",
-      "Profession": "Ecologist | Environmental Law Specialist",
-      "Phone":"(+57) 313 4094381",
-      "Profile":"https://www.linkedin.com/in/ángela-marcela-gómez-porras-b1aa67222/"      
     }
+    
   ],
   
   "VideoLinks":[
