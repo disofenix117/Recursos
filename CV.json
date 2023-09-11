@@ -83,7 +83,7 @@
     {
       "Empresa":"Prime Digital Consulting",
       "Cargo":"Interactive Developer",
-      "Duracion":"October/2021 - October/2022"  
+      "Duracion":"October/2021 - July/2023"  
     },
     {
       "Empresa":"Got-It Moving Ideas",
@@ -115,7 +115,7 @@
   "Referencias":[
     {
       "Name":"Luis Felipe Diaz",
-      "Profession": "Systems Engineer",
+      "Profession": "Software Engineer",
       "Phone":"(+52) 55 76312100",
       "Profile":"https://www.linkedin.com/in/luis-felipe-diaz-chica/"      
     },
@@ -130,12 +130,6 @@
       "Profession": "Multimedia Engineer",
       "Phone":"(+57) 313 3743984",
       "Profile":"https://www.linkedin.com/in/mpaulanieto/"      
-    },
-    {
-      "Name":"Gina Fernanda Diaz Rozo",
-      "Profession": "Multimedia Engineer",
-      "Phone":"(+57) 350",
-      "Profile":"https://www.linkedin.com/in/"      
     }
     
   ],
